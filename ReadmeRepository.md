@@ -4,9 +4,9 @@
 This repository contains all deliverables and supporting materials for our project.
 
 ## Repository Structure
-– Final report (PDF).
-– Presentation slides (PPT).
-– Backup videos and additional resources.
+- Final report (PDF)
+- Presentation slides (PPT)
+- Backup videos and additional resources
 
 ## Video Presentation
 The presentation video is hosted on YouTube.  
