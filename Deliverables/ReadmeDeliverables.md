@@ -1,0 +1,24 @@
+# EECS 568 Project
+
+## Overview
+This repository contains all deliverables and supporting materials for our project.
+
+## Repository Structure
+- Final report (PDF)
+- Poster
+- Presentation slides (PPT)
+- Backup videos and additional resources
+
+## Video Presentation
+The presentation [video](https://youtu.be/WrLsyQ7aVDI?si=s3FqLQeRStgx3eXB) is hosted on YouTube.
+A direct link to the video is provided in the final paper.
+
+## Notes
+- All project-related materials, including backups, are available in this repository.
+- The slides used in the presentation are also included here.
+
+## Team Members
+- Shaohan Wang  
+- Weijie Xia  
+- James Hu  
+- Zhitao Yong

@@ -82,6 +82,9 @@ python scripts/rsl_rl/play_bias_4foot.py --task Unitree-Go2-Velocity --checkpoin
 
 Each script outputs a real-time plot (CMD vs GT vs EKF) and a metric file `velocity_metrics_*.txt`.
 
+## Deliverables
+All deliverables can be found in the [Deliverables](./Deliverables) folder.
+
 ## References
 
 [1] R. Hartley, M. Ghaffari, R. M. Eustice, and J. W. Grizzle, "Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation," *Int. J. Robotics Research*, 39(4), 2020.
