@@ -9,7 +9,7 @@ This repository contains all deliverables and supporting materials for our proje
 - Backup videos and additional resources
 
 ## Video Presentation
-The presentation video is hosted on YouTube.  
+The presentation [video](https://youtu.be/WrLsyQ7aVDI?si=s3FqLQeRStgx3eXB) is hosted on YouTube.
 A direct link to the video is provided in the final paper.
 
 ## Notes
