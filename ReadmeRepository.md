@@ -1,4 +1,4 @@
-# Project Title
+# EECS 568 Project
 
 ## Overview
 This repository contains all deliverables and supporting materials for our project.
