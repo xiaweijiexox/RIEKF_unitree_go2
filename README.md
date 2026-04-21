@@ -6,6 +6,8 @@ Tested on Isaac Lab 0.54.2 + Isaac Sim 5.1.0, verified on both DGX Spark (Linux 
 
 For environment setup, please refer to [Unitree RL Lab](https://github.com/unitreerobotics/unitree_rl_lab).
 
+The complete math formulation of RIEKF is in RIEKF_formulation.pdf
+
 ## Algorithm Variants
 
 Two design axes — **contact parameterization** × **bias modeling** — yield six combinations:
