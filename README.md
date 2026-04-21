@@ -4,7 +4,7 @@
 
 Six RIEKF variants for velocity estimation on a Unitree Go2 quadruped in Isaac Lab, based on Hartley et al. [1].
 
-Tested on Isaac Lab 0.54.2 + Isaac Sim 5.1.0, verified on both DGX Spark (Linux aarch64) and Windows (x86_64).
+Tested on Isaac Lab 0.54.2 , verified on both DGX Spark (Linux aarch64) and Windows (x86_64).
 
 For environment setup, please refer to [Unitree RL Lab](https://github.com/unitreerobotics/unitree_rl_lab).
 
