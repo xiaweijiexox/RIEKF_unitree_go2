@@ -1,3 +1,5 @@
+![poster](poster.png)
+
 # Contact-Aided RIEKF for Quadruped Velocity Estimation
 
 Six RIEKF variants for velocity estimation on a Unitree Go2 quadruped in Isaac Lab, based on Hartley et al. [1].
