@@ -23,7 +23,7 @@ Two design axes — **contact parameterization** × **bias modeling** — yield 
 | `play_base_4foots.py` | Fixed | No | 21 | All 4 anchors always in state, P dimension constant |
 | `play_bias_4foot.py` | Fixed | Yes | 27 | Fixed 4-foot + online bg, ba estimation |
 
-Nc = number of feet currently in contact (04).
+Nc = number of feet currently in contact (0–4).
 
 ## Results
 
