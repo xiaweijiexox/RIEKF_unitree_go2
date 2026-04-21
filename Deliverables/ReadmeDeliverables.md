@@ -5,6 +5,7 @@ This repository contains all deliverables and supporting materials for our proje
 
 ## Repository Structure
 - Final report (PDF)
+- Poster
 - Presentation slides (PPT)
 - Backup videos and additional resources
 
